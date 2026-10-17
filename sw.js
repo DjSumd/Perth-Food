@@ -1,6 +1,6 @@
 // Cache-first service worker so the app opens instantly and works offline.
 // Bump CACHE on every deploy to push a new version to installed phones.
-const CACHE = 'perth-eats-v3027';
+const CACHE = 'perth-eats-v3626';
 const ASSETS = [
   './',
   './index.html',
